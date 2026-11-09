@@ -8,6 +8,11 @@ A GitHub Codespace with three AI coding agents installed with `npm install -g`:
 | Codex | `@openai/codex` | `codex` |
 | Claude Code | `@anthropic-ai/claude-code` | `claude` |
 
+## More setups
+
+There are 50 more ready-to-use setups in the [`workspaces`](./workspaces/README.md)
+folder — one for each kind of task, from data analysis to mobile apps.
+
 ## Start it
 
 Click **Code → Codespaces → Create codespace on main**. The three agents are installed

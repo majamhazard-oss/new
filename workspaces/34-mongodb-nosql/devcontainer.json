@@ -1,0 +1,10 @@
+{
+  "name": "MongoDB databases",
+  "image": "mcr.microsoft.com/devcontainers/base:debian",
+  "features": {
+    "ghcr.io/devcontainers/features/node:1": {
+      "version": "22"
+    }
+  },
+  "onCreateCommand": "npm install -g mongosh"
+}

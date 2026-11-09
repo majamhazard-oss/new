@@ -1,0 +1,5 @@
+{
+  "name": "Documentation websites",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:1-22-bookworm",
+  "onCreateCommand": "npm install -g @docusaurus/core"
+}

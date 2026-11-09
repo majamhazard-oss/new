@@ -1,0 +1,5 @@
+{
+  "name": "Bioinformatics",
+  "image": "mcr.microsoft.com/devcontainers/python:1-3.12-bookworm",
+  "onCreateCommand": "pip install --user biopython pandas"
+}

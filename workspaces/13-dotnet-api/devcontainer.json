@@ -1,0 +1,4 @@
+{
+  "name": ".NET services",
+  "image": "mcr.microsoft.com/devcontainers/dotnet:1-8.0-bookworm"
+}

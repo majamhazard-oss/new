@@ -1,0 +1,5 @@
+{
+  "name": "Redis caching",
+  "image": "mcr.microsoft.com/devcontainers/base:debian",
+  "onCreateCommand": "sudo apt-get update && sudo apt-get install -y redis-tools"
+}

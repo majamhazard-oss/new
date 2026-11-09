@@ -1,0 +1,5 @@
+{
+  "name": "Elixir apps",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "onCreateCommand": "sudo apt-get update && sudo apt-get install -y elixir erlang"
+}

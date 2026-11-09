@@ -1,0 +1,4 @@
+{
+  "name": "Rust programs",
+  "image": "mcr.microsoft.com/devcontainers/rust:1-bookworm"
+}

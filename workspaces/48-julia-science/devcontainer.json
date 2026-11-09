@@ -1,0 +1,5 @@
+{
+  "name": "Scientific computing (Julia)",
+  "image": "mcr.microsoft.com/devcontainers/base:debian",
+  "onCreateCommand": "curl -fsSL https://install.julialang.org | sh -s -- -y"
+}
