@@ -1,0 +1,20 @@
+A Pelican Riding a Bike
+=======================
+
+                    .-"""-.
+                   /  o o  \______
+                  |    ^     __   \
+                   \   ---  /  \   |
+                    \_______|    \_/
+                        _|_  \    /
+        ______________/   |   \__|______________
+       /   o     o        |         o      o    \
+      |       pedalling--->|<---  wheels        |
+       \_______________/     \_________________/
+          |       |             |       |
+         (_)     (_)           (_)     (_)
+
+                     vroom vroom
+
+(The pelican is the bit with the beak on top.
+ The two round things underneath are the wheels.)
