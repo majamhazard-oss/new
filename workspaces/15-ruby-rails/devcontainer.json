@@ -1,5 +1,0 @@
-{
-  "name": "Ruby on Rails",
-  "image": "mcr.microsoft.com/devcontainers/ruby:1-3.3-bookworm",
-  "onCreateCommand": "gem install rails"
-}

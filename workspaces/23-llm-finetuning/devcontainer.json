@@ -1,5 +1,0 @@
-{
-  "name": "Training AI models",
-  "image": "mcr.microsoft.com/devcontainers/python:1-3.12-bookworm",
-  "onCreateCommand": "pip install --user transformers datasets accelerate"
-}

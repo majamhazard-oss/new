@@ -1,5 +1,0 @@
-{
-  "name": "PHP websites",
-  "image": "mcr.microsoft.com/devcontainers/php:1-8.3-bookworm",
-  "onCreateCommand": "composer global require laravel/installer"
-}
